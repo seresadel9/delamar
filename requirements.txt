@@ -1,0 +1,8 @@
+kmodes
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+flask
+streamlit
